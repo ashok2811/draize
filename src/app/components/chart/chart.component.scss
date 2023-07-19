@@ -1,0 +1,31 @@
+.chart {
+    width: 300px;
+    height: 300px;
+    background-color: #4895ef; 
+    font-size: 20pt;
+    border-radius: 20px;
+    box-shadow: 0 0 25px #4362ee77;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center; 
+    position: absolute;
+    cursor: grab;
+  }
+
+  .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .resize-handle {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    bottom: 0;
+    right: 0;
+    background-color: #06103a48;
+    border-radius: 5px;
+    cursor: se-resize;
+  }
