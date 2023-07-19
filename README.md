@@ -1,6 +1,6 @@
 # Draize
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+A draggable and resizable component that can hold other components.
 
 ## Development server
 
@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
